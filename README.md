@@ -1,17 +1,15 @@
 ### Olá, eu sou o Henry Jaques
 
-Apaixonado por programação e sempre aprendendo algo novo.
+Sou apaixonado por programação e por entender como as coisas funcionam por trás das telas.
+Curto transformar ideias em código, encarar problemas como quebra-cabeças e aprender algo novo a cada projeto.
 
-**Tecnologias**
+Por aqui você vai encontrar um pouco do que ando construindo, estudando e experimentando — sempre evoluindo, um commit de cada vez.
 
-<img alt="C#" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img alt="JavaScript" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img alt="HTML5" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img alt="CSS3" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+### Contato
 
-**Contato**
-
-[Instagram](https://instagram.com/henry_jaques) · [Email](mailto:henryjaquesempresarial@gmail.com) · [LinkedIn](https://www.linkedin.com/in/henry-jaques-b28817382)
+<a href="https://instagram.com/henry_jaques" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:henryjaquesempresarial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/henry-jaques-b28817382" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ---
 
