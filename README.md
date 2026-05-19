@@ -1,10 +1,12 @@
 ### Henry Jaques
 
-Construo em silêncio. O código fala por mim.
+Desenvolvedor em formação, focado em construir soluções práticas e escaláveis com tecnologias web e .NET. Acredito que bons projetos nascem da combinação entre disciplina técnica, curiosidade constante e atenção aos detalhes.
 
-Algumas linhas resolvem problemas. Outras, fazem perguntas — e são essas que me interessam. Aqui você encontra apenas o que precisa ser visto. O resto fica entre mim e o terminal.
+Atualmente venho aprofundando meus conhecimentos em desenvolvimento de software, boas práticas de código e arquitetura de aplicações, sempre buscando oportunidades de colaborar, evoluir e gerar valor real.
 
-### Contato
+Aberto a conexões, parcerias e novas oportunidades.
+
+### Vamos conversar
 
 <a href="https://instagram.com/henry_jaques" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:henryjaquesempresarial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
