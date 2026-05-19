@@ -1,9 +1,8 @@
-### Olá, eu sou o Henry Jaques
+### Henry Jaques
 
-Sou apaixonado por programação e por entender como as coisas funcionam por trás das telas.
-Curto transformar ideias em código, encarar problemas como quebra-cabeças e aprender algo novo a cada projeto.
+Construo em silêncio. O código fala por mim.
 
-Por aqui você vai encontrar um pouco do que ando construindo, estudando e experimentando — sempre evoluindo, um commit de cada vez.
+Algumas linhas resolvem problemas. Outras, fazem perguntas — e são essas que me interessam. Aqui você encontra apenas o que precisa ser visto. O resto fica entre mim e o terminal.
 
 ### Contato
 
