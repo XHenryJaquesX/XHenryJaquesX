@@ -1,11 +1,5 @@
 ### Henry Jaques
 
-Desenvolvedor em formação, focado em construir soluções práticas e escaláveis com tecnologias web e .NET. Acredito que bons projetos nascem da combinação entre disciplina técnica, curiosidade constante e atenção aos detalhes.
-
-Atualmente venho aprofundando meus conhecimentos em desenvolvimento de software, boas práticas de código e arquitetura de aplicações, sempre buscando oportunidades de colaborar, evoluir e gerar valor real.
-
-Aberto a conexões, parcerias e novas oportunidades.
-
 ### Vamos conversar
 
 <a href="https://instagram.com/henry_jaques" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
